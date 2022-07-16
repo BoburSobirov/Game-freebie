@@ -321,9 +321,35 @@ select {
 .nav-footer{
     display: flex;
     justify-content: space-between;
+    margin-top: 25px;
 }
 .logo{
     width: 90px;
     height: 90px;
-    margin-left: 120.22px;
+}
+.icons{
+    margin-top: 15px;
+    display: flex;
+    margin-right: 35px;
+}
+.fa-facebook{
+    margin-left: 0px;
+}
+.fa-brands{
+    width: 21.01px;
+    height: 16px;
+    color: white;
+    background-color: black;
+    margin-left: 10px;
+    margin-right: 15px;
+}
+.fa-youtube{
+    color: red;
+    width: 25px;
+    height: 25px;
+
+}
+.text-footer{
+    margin-top: 22px;
+    margin-right: 470px;
 }
